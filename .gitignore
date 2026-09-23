@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# 執行後產生的暫存與記錄
+*.log
+*.tmp
+_印表機設定資訊.txt
+
+# 編輯器
+.vscode/
+.idea/
